@@ -1,2 +1,2 @@
 # FetchApi
-Fetch dummy API.
+Fetch dummy API and reflect details in card.
