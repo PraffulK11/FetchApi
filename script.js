@@ -1,3 +1,4 @@
+
 let searchInput = document.getElementById('search-bar');
 const container=document.createElement('div');
 container.id="main";
